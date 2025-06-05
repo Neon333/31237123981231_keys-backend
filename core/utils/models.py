@@ -1,0 +1,1 @@
+IgnoreUpdate = type('IgnoreUpdate', (), {})
